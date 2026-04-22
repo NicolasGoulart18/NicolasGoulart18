@@ -37,7 +37,7 @@
 ## 📊 GitHub Stats
 
 <p align="left">
- <img height="170" src="https://github-readme-stats.vercel.app/api?username=NicolasGoulart18&show_icons=true&theme=github_dark&hide_border=true&title_color=00BFFF&icon_color=00BFFF&text_color=ffffff&count_private=true&include_all_commits=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=NicolasGoulart18&show_icons=true&theme=github_dark&hide_border=true&title_color=00BFFF&icon_color=00BFFF&text_color=ffffff&count_private=true" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasGoulart18&layout=compact&theme=github_dark&hide_border=true&title_color=00BFFF&text_color=ffffff" />
 </p>
 
