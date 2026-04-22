@@ -1,15 +1,49 @@
-#  Nicolas Goulart Carneiro
+# Hi 👋, I'm Nicolas Goulart
 
-**`Computer science student`**
-
-i'm a curious and dedicated computer science graduate, based in programming logic and java, and focused on building improvements for people with java, always looking for something organized and optimized. i value high-quality code, team collaboration, and continuous learning.
-
-
+🚀 **Computer Science Student, focused on Backend Development**  
+🇧🇷 Brazil
 
 ---
 
-### 🧰 Languages and Tools
+## 🌐 Where to find me
 
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<p align="left">
+  <a href="https://github.com/NicolasGoulart18">
+    <img src="https://img.shields.io/badge/GitHub-NicolasGoulart18-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://instagram.com/_nk.7k">
+    <img src="https://img.shields.io/badge/Instagram-@_nk.7k-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
 
-<br />
+---
+
+## 🧠 What I do
+
+- 🔐 Programming Logic & Problem Solving
+- ☕ Java (Basic - Intermediate)
+- 🧩 Object-Oriented Programming (OOP)
+- 🚀 Backend Development Studies
+
+---
+
+## 🛠️ Tech Stack
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="left">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=NicolasGoulart18&show_icons=true&theme=github_dark&hide_border=true&title_color=00BFFF&icon_color=00BFFF&text_color=ffffff" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasGoulart18&layout=compact&theme=github_dark&hide_border=true&title_color=00BFFF&text_color=ffffff" />
+</p>
+
+---
+
+## 🚀 Philosophy
+
+> _"Keep building. One commit at a time."_ 🚀
