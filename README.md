@@ -1,48 +1,67 @@
-# Hi 👋, I'm Nicolas Goulart
+# Olá, eu sou Nicolas Goulart
 
-🚀 **Computer Science Student, focused on Backend Development**  
-🇧🇷 Brazil
+Sou estudante de **Ciência da Computação**, com foco atual em **desenvolvimento backend** e interesse na área de **dados**.
 
----
+Tenho buscado desenvolver meus conhecimentos através de estudos e projetos práticos, principalmente utilizando Java, Python e SQL.
 
-## 🌐 Where to find me
+## About Me
 
-<p align="left">
-  <a href="https://github.com/NicolasGoulart18">
-    <img src="https://img.shields.io/badge/GitHub-NicolasGoulart18-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://instagram.com/_nk.7k">
-    <img src="https://img.shields.io/badge/Instagram-@_nk.7k-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
+* Estudante de Ciência da Computação.
+* Foco atual em desenvolvimento backend.
+* Experiência prática com Java e Programação Orientada a Objetos.
+* Interesse em dados, SQL e bancos de dados.
+
+## Tech Stack
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="42" height="42" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="42" height="42" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite" width="42" height="42" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="42" height="42" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="42" height="42" />
 </p>
 
----
+**Linguagens:** Java, Python, SQL
+**Backend:** Programação Orientada a Objetos, lógica de programação
+**Banco de Dados:** SQLite, SQL
+**Ferramentas:** Git, GitHub
 
-## 🧠 What I do
+## Projects
 
-- 🔐 Programming Logic & Problem Solving
-- ☕ Java & Object-Oriented Programming
-- 🚀 Backend Development Studies
+### SystemOfLibrary
 
----
+Sistema de biblioteca desenvolvido em Java para praticar Programação Orientada a Objetos e implementação de regras de negócio.
 
-## 🛠️ Tech Stack
+### Projetos em Python
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+Projetos desenvolvidos durante meus estudos de Python, com foco em prática da linguagem e resolução de problemas.
 
----
+### Estudos de SQL
 
-## 📊 GitHub Stats
+Repositório com estudos de SQL, abordando consultas, filtros, funções, agrupamentos e manipulação de dados.
 
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=NicolasGoulart18&show_icons=true&theme=github_dark&hide_border=true&title_color=00BFFF&icon_color=00BFFF&text_color=ffffff&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasGoulart18&layout=compact&theme=github_dark&hide_border=true&title_color=00BFFF&text_color=ffffff" />
+## Currently Learning
+
+* Java e Programação Orientada a Objetos.
+* Python.
+* SQL e bancos de dados.
+* Desenvolvimento backend.
+
+## GitHub Stats
+
+<p>
+  <img src="https://github-readme-stats.shion.dev/api?username=NicolasGoulart18&show_icons=true&theme=transparent&hide_border=true&hide_rank=true" alt="Nicolas's GitHub stats" />
 </p>
 
----
+<p>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=NicolasGoulart18&layout=compact&theme=transparent&hide_border=true" alt="Nicolas's most used languages" />
+</p>
 
-## 🚀 Philosophy
 
-> _"Keep building. One commit at a time."_ 🚀
+## Connect With Me
+
+<p>
+  <a href="https://www.linkedin.com/in/nicolas-goulart-73562b31b">
+    <img src="https://img.shields.io/badge/LinkedIn-Nicolas%20Goulart-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
