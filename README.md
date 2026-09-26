@@ -1,18 +1,19 @@
 # Olá, eu sou Nicolas Goulart
 
-Sou estudante de **Ciência da Computação**, com foco atual em **desenvolvimento backend** e interesse na área de **dados**.
+Estudante de **Ciência da Computação**, com foco atual em **desenvolvimento backend** e construção de projetos práticos para consolidar fundamentos de programação.
 
-Tenho buscado desenvolver meus conhecimentos através de estudos e projetos práticos, principalmente utilizando Java, Python, SQL, HTML e CSS.
+Tenho estudado principalmente Java, Python, SQL, HTML e CSS, utilizando o GitHub para registrar minha evolução e organizar meus projetos.
 
-## About Me
+## Sobre mim
 
-* Estudante de Ciência da Computação.
-* Foco atual em desenvolvimento backend.
-* Experiência prática com Java e Programação Orientada a Objetos.
-* Interesse em dados, SQL e bancos de dados.
-* Estudando HTML e CSS para desenvolver conhecimentos em desenvolvimento web.
+- Estudante de Ciência da Computação
+- Foco atual em desenvolvimento backend
+- Prática com Java e Programação Orientada a Objetos
+- Interesse em bancos de dados e desenvolvimento de APIs
+- Estudos complementares em Python e desenvolvimento web
+- Uso frequente de Git e GitHub durante o aprendizado
 
-## Tech Stack
+## Tecnologias
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="42" height="42" />
@@ -24,33 +25,37 @@ Tenho buscado desenvolver meus conhecimentos através de estudos e projetos prá
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="42" height="42" />
 </p>
 
-**Linguagens:** Java, Python, SQL
-**Frontend:** HTML, CSS
-**Backend:** Programação Orientada a Objetos, lógica de programação
-**Banco de Dados:** SQLite, SQL
-**Ferramentas:** Git, GitHub
+**Linguagens:** Java, Python, SQL  
+**Frontend:** HTML, CSS  
+**Backend:** Java, POO e lógica de programação  
+**Banco de dados:** SQL e SQLite  
+**Ferramentas:** Git, GitHub e VS Code
 
-## Projects
+## Projetos em destaque
+
+### Money Manager
+
+Gerenciador financeiro em Java criado para praticar POO, Collections, `BigDecimal`, validações e exceções antes da evolução para Spring Boot.
 
 ### SystemOfLibrary
 
-Sistema de biblioteca desenvolvido em Java para praticar Programação Orientada a Objetos e implementação de regras de negócio.
+Sistema de biblioteca em Java com CRUD, herança, polimorfismo, regras de negócio, diferentes tipos de usuário e controle de empréstimos.
 
-### Projetos em Python
+### WebDev Front-End — Faculdade
 
-Projetos desenvolvidos durante meus estudos de Python, com foco em prática da linguagem e resolução de problemas.
+Repositório de estudos de HTML e CSS organizado por blocos, com exemplos, exercícios e revisões da disciplina.
 
-### Estudos de SQL
+### Programming Paradigms
 
-Repositório com estudos de SQL, abordando consultas, filtros, funções, agrupamentos e manipulação de dados.
+Repositório utilizado para organizar os estudos de Paradigmas de Programação, incluindo teoria, exemplos e exercícios.
 
-## Currently Learning
+## Atualmente estudando
 
-* Java e Programação Orientada a Objetos.
-* Python.
-* SQL e bancos de dados.
-* HTML e CSS.
-* Desenvolvimento backend.
+- Java e Programação Orientada a Objetos
+- Collections e tratamento de exceções
+- SQL e bancos de dados
+- HTML e CSS
+- Fundamentos para Spring Boot
 
 ## GitHub Stats
 
@@ -62,7 +67,7 @@ Repositório com estudos de SQL, abordando consultas, filtros, funções, agrupa
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=NicolasGoulart18&layout=compact&theme=transparent&hide_border=true" alt="Nicolas's most used languages" />
 </p>
 
-## Connect With Me
+## Contato
 
 <p>
   <a href="https://www.linkedin.com/in/nicolas-goulart-73562b31b">
