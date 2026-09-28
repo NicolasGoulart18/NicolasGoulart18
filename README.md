@@ -102,6 +102,16 @@ Repositório com estudos de SQL, abordando consultas, filtros, funções, agrupa
 
 ---
 
+## 🧊 Contribution Graph 3D
+
+<div align="center">
+
+<img width="95%" src="https://raw.githubusercontent.com/NicolasGoulart18/NicolasGoulart18/main/profile-3d-contrib/profile-night-green.svg" alt="3D GitHub contribution graph" />
+
+</div>
+
+---
+
 ## 🐍 Contribution Snake
 
 <div align="center">
