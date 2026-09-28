@@ -63,6 +63,16 @@ Repositório com estudos de SQL, abordando consultas, filtros, funções, agrupa
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=NicolasGoulart18&layout=compact&theme=transparent&hide_border=true" alt="Nicolas's most used languages" />
 </p>
 
+## Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NicolasGoulart18/NicolasGoulart18/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NicolasGoulart18/NicolasGoulart18/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/NicolasGoulart18/NicolasGoulart18/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+
 ## Contato
 
 <p>
