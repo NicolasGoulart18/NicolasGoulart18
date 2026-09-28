@@ -31,23 +31,19 @@ Tenho estudado principalmente Java, Python, SQL, HTML e CSS, utilizando o GitHub
 **Banco de dados:** SQL e SQLite  
 **Ferramentas:** Git, GitHub e VS Code
 
-## Projetos em destaque
-
-### Money Manager
-
-Gerenciador financeiro em Java criado para praticar POO, Collections, `BigDecimal`, validações e exceções antes da evolução para Spring Boot.
+## Projects
 
 ### SystemOfLibrary
 
-Sistema de biblioteca em Java com CRUD, herança, polimorfismo, regras de negócio, diferentes tipos de usuário e controle de empréstimos.
+Sistema de biblioteca desenvolvido em Java para praticar Programação Orientada a Objetos e implementação de regras de negócio.
 
-### WebDev Front-End — Faculdade
+### Projetos em Python
 
-Repositório de estudos de HTML e CSS organizado por blocos, com exemplos, exercícios e revisões da disciplina.
+Projetos desenvolvidos durante meus estudos de Python, com foco em prática da linguagem e resolução de problemas.
 
-### Programming Paradigms
+### Estudos de SQL
 
-Repositório utilizado para organizar os estudos de Paradigmas de Programação, incluindo teoria, exemplos e exercícios.
+Repositório com estudos de SQL, abordando consultas, filtros, funções, agrupamentos e manipulação de dados.
 
 ## Atualmente estudando
 
