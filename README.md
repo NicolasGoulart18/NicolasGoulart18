@@ -1,8 +1,12 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,50:0A66C2,100:2B31FF&text=Nicolas%20Goulart&fontColor=FFFFFF&fontSize=48&fontAlignY=38&desc=Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o%20%E2%80%A2%20Java%20%E2%80%A2%20Backend&descAlignY=58&animation=fadeIn" alt="Nicolas Goulart banner" />
+<img width="460" src="https://media1.tenor.com/m/pZdrOc2yjFkAAAAd/attack-on-titan-freedom.gif" alt="Attack on Titan - Freedom" />
 
-### Construindo fundamentos, projetos e evolução constante.
+# Nícolas Goulart
+
+### Ciência da Computação • Java • Backend
+
+Construindo fundamentos, projetos e evolução constante.
 
 <a href="https://www.linkedin.com/in/nicolas-goulart-73562b31b">
   <img src="https://img.shields.io/badge/LinkedIn-Nicolas%20Goulart-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
