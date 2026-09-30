@@ -1,0 +1,40 @@
+name: Fetch AOT GIF
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/workflows/fetch-aot-gif.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+        with:
+          fetch-depth: 0
+
+      - name: Download GIF
+        run: |
+          mkdir -p assets
+          curl -L --fail --retry 3             "https://media1.tenor.com/m/pZdrOc2yjFkAAAAd/attack-on-titan-freedom.gif"             -o assets/aot-freedom.gif
+          file assets/aot-freedom.gif
+          test -s assets/aot-freedom.gif
+
+      - name: Commit GIF
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add assets/aot-freedom.gif
+          if git diff --cached --quiet; then
+            echo "GIF already up to date."
+            exit 0
+          fi
+          git commit -m "assets: add AOT profile gif"
+          git pull --rebase origin main
+          git push origin main
