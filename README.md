@@ -106,7 +106,7 @@ Repositório com estudos de SQL, abordando consultas, filtros, funções, agrupa
 
 <div align="center">
 
-<img width="95%" src="https://raw.githubusercontent.com/NicolasGoulart18/NicolasGoulart18/main/profile-3d-contrib/profile-night-green.svg" alt="3D GitHub contribution graph" />
+<img width="95%" src="https://raw.githubusercontent.com/NicolasGoulart18/NicolasGoulart18/main/profile-3d-contrib/profile-night-green.svg?v=2" alt="3D GitHub contribution graph" />
 
 </div>
 
