@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="460" src="https://media1.tenor.com/m/pZdrOc2yjFkAAAAd/attack-on-titan-freedom.gif" alt="Attack on Titan - Freedom" />
+<img width="460" src="https://raw.githubusercontent.com/NicolasGoulart18/NicolasGoulart18/main/assets/aot-freedom.gif" alt="Attack on Titan - Freedom" />
 
 # Nícolas Goulart
 
